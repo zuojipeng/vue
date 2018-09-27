@@ -1,0 +1,5 @@
+@function rem($px){
+    @return $px/75px*1rem;
+  }
+  *{margin:0;padding:0;}
+  ul,ol{list-style: none;}
